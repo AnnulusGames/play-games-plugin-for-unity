@@ -1,7 +1,17 @@
 {
     "name": "Google.Play.Games",
+    "rootNamespace": "",
+    "references": [],
     "includePlatforms": [
         "Android",
         "Editor"
-    ]
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }
